@@ -9,7 +9,7 @@
 1.  Clone the repository:
     ```bash
     git clone https://github.com/kholy98/home-page-api.git
-    cd blog-api
+    cd home-page-api
     ```
 2.  Install dependencies:
     ```bash
